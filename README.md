@@ -1,6 +1,6 @@
-### Hi there 👋
+### 💫 Hello! I'm Kaushik
 
-<!--
+<!-- 
 **KaushikR1999/KaushikR1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👨🏽‍🎓 Information Systems Student at National University of Singapore, specialising in Financial Technology
+
+🏢 Product Development & Analytics
+
+👨🏽‍💻 Passionate about solving real-world problems by integrating technology and data to create data-driven solutions
+
+🌐 Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushik-rangaraj/)
