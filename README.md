@@ -52,3 +52,8 @@ Here are some ideas to get you started:
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=KaushikR1999&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=abhishekjainz&theme=monokai&hide_border=false)<br/> -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikr1999&theme=monokai&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
