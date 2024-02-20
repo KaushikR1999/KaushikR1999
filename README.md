@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 👨🏽‍🎓 Information Systems Student at National University of Singapore, specialising in Financial Technology
 
-🏢 Analytics @ TES
+🏢 Analytics @ Univers
 
 👨🏽‍💻 Passionate about solving real-world problems by integrating technology and data to create data-driven solutions
 
