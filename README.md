@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👨🏽‍🎓 Information Systems Student at National University of Singapore, specialising in Financial Technology
+👨🏽‍🎓 Masters in Artificial Intelligence Student at National University of Singapore
 
-🏢 Analytics @ Univers
+🏢 Analytics @ HDB
 
 👨🏽‍💻 Passionate about solving real-world problems by integrating technology and data to create data-driven solutions
 
