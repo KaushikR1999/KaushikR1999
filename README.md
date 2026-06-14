@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👨🏽‍🎓 Masters in Artificial Intelligence Student at National University of Singapore
+👨🏽‍🎓 Masters in Artificial Intelligence (Completed), Bachelors in Information Systems (Completed) at National University of Singapore
 
-🏢 Analytics @ HDB
+🏢 Data Scientist @ HDB
 
 👨🏽‍💻 Passionate about solving real-world problems by integrating technology and data to create data-driven solutions
 
